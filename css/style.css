@@ -1,5 +1,5 @@
 .container{
-  margin-bottom: 100px;
+  margin-bottom: 25px;
 }
 .bg-clr{
   background-color: #feeae9;
@@ -36,4 +36,22 @@
 }
 .watch,.bag,.shoes{
   padding: 10px 30px;
+  color: #fff;
+}
+.catagories img{
+  width: 40%;
+}
+.card{
+  border:none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.contact-us{
+  height: 300px;
+}
+.contact-us h6{
+  color: #808080;
+}
+footer{
+  text-align: center;
+  color: #808080;
 }
