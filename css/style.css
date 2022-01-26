@@ -3,6 +3,7 @@
 }
 .bg-clr{
   background-color: #feeae9;
+  border-radius: 5px;
 }
 .carousel-item{
   padding: 20px 40px;
@@ -17,4 +18,22 @@
   border-radius: 8px;
   padding: 9px 25px;
   cursor: pointer;
+}
+.watch{
+  background-image: linear-gradient(45deg, #f77621 0%, #faf603 100%);
+  border: none;
+  border-radius: 8px;
+}
+.bag{
+  background-image: linear-gradient(45deg, #ff589b 0%, #ff136f 100%);
+  border: none;
+  border-radius: 8px;
+}
+.shoes{
+  background-image: linear-gradient(45deg, #4a99f3 0%, #4f05fa 100%);
+  border: none;
+  border-radius: 8px;
+}
+.watch,.bag.shoes{
+  padding: 10px 30px;
 }
